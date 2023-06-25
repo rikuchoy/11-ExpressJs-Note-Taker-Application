@@ -14,6 +14,7 @@
 ## Project Description
 
 This is a note taker application that uses the Express.js as the back end. With the front end (client-side) already provided, I was tasked with integrating the server side component of the note taker in order to allow the smooth operation of the application.
+![Application Appearance](./images/ss.png)
 
 ## Installation
 
